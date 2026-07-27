@@ -40,7 +40,7 @@ java -cp out server.sequentalServer
 java -cp out server.parallelServer
 
 java -cp out client.MatrixClient
-
+```
 ## Как использовать
 1. Введите количество строк и столбцов (1-999)
 2. Нажмите "Создать"
